@@ -1,19 +1,22 @@
-.stock-container{
-    border:1px solid black;
-    border-radius:15px;
-    display:inline-block;
-    padding:10px;
+.stock-container {
+  border: 1px solid black;
+  border-radius: 15px;
+  display: inline-block;
+  padding: 10px;
 }
 
- .positive {
-color:green;
+.positive {
+  color: green;
 }
 
-.negative{
-    color:red;
+.negative {
+  color: red;
 }
 
-.button-1{
-    background-color:blue;
-    color:white;
+.small-change {
+  font-size: 0.8 rem;
+}
+
+.large-change {
+  font-size: 1.2rem;
 }
